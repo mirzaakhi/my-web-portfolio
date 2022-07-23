@@ -90,3 +90,9 @@ p{
     border-image-slice: 1;
 
 }
+
+footer p{
+
+    text-align: center;
+    font-size: 12px;
+}
